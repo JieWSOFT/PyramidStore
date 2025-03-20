@@ -3,19 +3,16 @@
     "key": "py_金牌",
     "name": "金牌",
     "type": 3,
-    "api": "爬虫所在位置/py_金牌.py",
+    "api": "https://raw.githubusercontent.com/JieWSOFT/PyramidStore/refs/heads/main/plugin/html/%E9%87%91%E7%89%8C.py",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 1,
-    "ext": {
-      "site": "域名1,域名2,域名3......"
-    }
+    "filterable": 1
   },
   {
-    "key": "py_光速",
-    "name": "光速",
+    "key": "py_光速APP",
+    "name": "光速APP",
     "type": 3,
-    "api": "爬虫所在位置/py_光速.py",
+    "api": "https://raw.githubusercontent.com/JieWSOFT/PyramidStore/refs/heads/main/plugin/html/%E5%85%89%E9%80%9FAPP.py",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
